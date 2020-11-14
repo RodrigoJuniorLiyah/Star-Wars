@@ -15,12 +15,16 @@ function TabsRoutes() {
         style: {
           elevation: 0,
           shadowOpacity: 0,
-          height: 64,
+          height: 63,
         },
         tabStyle: {
           flexDirection: "row",
           alignItems: "center",
           justifyContent: "center",
+
+          backgroundColor: '#15072b',
+
+          marginTop: -1,
         },
         iconStyle: {
           flex: 0,
@@ -28,17 +32,18 @@ function TabsRoutes() {
           height: 20,
         },
         labelStyle: {
+          fontFamily: 'Nunito_700Bold',
           fontSize: 13,
           marginLeft: 16,
         },
         inactiveBackgroundColor: "#fafafc",
         activeBackgroundColor: "#ebebf5",
-        inactiveTintColor: "#c1bccc",
-        activeTintColor: "#32264d",
+        inactiveTintColor: "#32264d",
+        activeTintColor: "#4ee1e6",
       }}
     >
       <Screen
-        name="Favorites"
+        name="Home"
         component={HomePage}
         options={{
           tabBarLabel: "Home",
@@ -47,14 +52,14 @@ function TabsRoutes() {
               <Entypo
                 name="home"
                 size={size}
-                color={focused ? "#8257e5" : color}
+                color={focused ? "#4ee1e6" : color}
               />
             );
           },
         }}
       />
       <Screen
-        name="TeacherList"
+        name="SeasonGuide"
         component={SeasonGuide}
         options={{
           tabBarLabel: "Guia de temporada",
@@ -63,7 +68,7 @@ function TabsRoutes() {
               <FontAwesome
                 name="navicon"
                 size={size}
-                color={focused ? "#8257e5" : color}
+                color={focused ? "#4ee1e6" : color}
               />
             );
           },

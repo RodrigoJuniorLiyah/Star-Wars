@@ -38,8 +38,8 @@ function SeasonGuide() {
         <Text style={styles.title}>Guia de Temporada</Text>
 
         <View style={styles.grid}>
-          <ScrollView style={styles.listContainer}>
-            <View style={styles.teste}>
+          <ScrollView style={styles.scrollingList}>
+            <View style={styles.contain}>
               <ImageBackground
                 style={styles.bannerFilm}
                 source={StarWarsANewHope}

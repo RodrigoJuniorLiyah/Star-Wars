@@ -15,20 +15,16 @@ const styles = StyleSheet.create({
     left: 30,
   },
 
-  container: {
-    flex: 1,
-  },
-
   grid: {
     flex: 1,
     marginTop: 50,
   },
 
-  listContainer: {
+  scrollingList: {
 
   },
 
-  teste: {
+  contain: {
     flex: 1,
     flexDirection: 'row',
     flexWrap: 'wrap',

@@ -5,10 +5,10 @@ import { createStackNavigator } from "@react-navigation/stack";
 import HomePage from "../pages/Home/HomePage";
 import TabsRoutes from "./TabsRoutes";
 import SeasonGuide from "../pages/Seasons/SeasonGuide";
-import ANewHope from "../pages/assets/ANewHope";
-import ReturnOfTheJedi from "../pages/assets/ReturnOfTheJedi";
-import TheEmpireStrikesBack from "../pages/assets/TheEmpireStrikesBack";
-import ThePhantomMenace from "../pages/assets/ThePhantomMenace";
+import ANewHope from "../pages/components/ANewHope";
+import ReturnOfTheJedi from "../pages/components/ReturnOfTheJedi";
+import TheEmpireStrikesBack from "../pages/components/TheEmpireStrikesBack";
+import ThePhantomMenace from "../pages/components/ThePhantomMenace";
 
 const { Navigator, Screen } = createStackNavigator();
 

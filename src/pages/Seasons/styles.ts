@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
     fontSize: 32,
     position: 'absolute',
     right: 10,
-  }
+  },
 })
 
 export default styles;

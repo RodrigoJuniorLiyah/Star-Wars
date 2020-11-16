@@ -20,9 +20,9 @@ function Routes() {
         <Screen name="SeasonGuide" component={SeasonGuide} />
         <Screen name="HomePage" component={HomePage} />
         <Screen name="ANewHope" component={ANewHope} />
+        <Screen name="ThePhantomMenace" component={ThePhantomMenace} />
         <Screen name="ReturnOfTheJedi" component={ReturnOfTheJedi} />
         <Screen name="TheEmpireStrikesBack" component={TheEmpireStrikesBack} />
-        <Screen name="ThePhantomMenace" component={ThePhantomMenace} />
       </Navigator>
     </NavigationContainer>
   );

@@ -2,7 +2,6 @@ import React from "react";
 import { View, Text, Image, ImageBackground } from "react-native";
 import { ScrollView } from "react-native-gesture-handler";
 
-import Teste from "../../services/Teste";
 import { Fontisto } from "@expo/vector-icons";
 import { useNavigation } from "@react-navigation/native";
 
@@ -72,7 +71,7 @@ function SeasonGuide() {
                 </Text>
                 <Fontisto
                   style={styles.arrow}
-                  onPress={handleNavigationToReturnOfTheJedi}
+                  onPress={handleNavigationToThePhantomMenace}
                   name="arrow-right-l"
                 />
               </ImageBackground>
@@ -90,7 +89,7 @@ function SeasonGuide() {
                 </Text>
                 <Fontisto
                   style={styles.arrow}
-                  onPress={handleNavigationToTheEmpireStrikesBack}
+                  onPress={handleNavigationToReturnOfTheJedi}
                   name="arrow-right-l"
                 />
               </ImageBackground>
@@ -108,11 +107,10 @@ function SeasonGuide() {
                 </Text>
                 <Fontisto
                   style={styles.arrow}
-                  onPress={handleNavigationToThePhantomMenace}
+                  onPress={handleNavigationToTheEmpireStrikesBack}
                   name="arrow-right-l"
                 />
               </ImageBackground>
-              {/* <Teste /> */}
             </View>
           </ScrollView>
         </View>

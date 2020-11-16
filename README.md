@@ -50,10 +50,10 @@
 ### Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;flex-direction: column">
-<img alt="home" title="home" src="./assets/printscreen/home.png" height="400">
-<img alt="guia" title="guia inicial" src="./assets/printscreen/guia.png" height="400">
-<img alt="Header" title="Header" src="./assets/printscreen/header.png" height="400">
-<img alt="informações" title="informações" src="./assets/printscreen/info.png"height="400">
+<img alt="home" title="home" src="./assets/printscreen/projetoStarWars/home.png" height="400">
+<img alt="guia" title="guia inicial" src="./assets/printscreen/projetoStarWars/guia.png" height="400">
+<img alt="Header" title="Header" src="./assets/printscreen/projetoStarWars/header.png" height="400">
+<img alt="informações" title="informações" src="./assets/printscreen/projetoStarWars/info.png"height="400">
 <img alt="veículos" title="veículos" src="./assets/printscreen/projetoStarWars/veiculos.png" height="400">
 </p>
 

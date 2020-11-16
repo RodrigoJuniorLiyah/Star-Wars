@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://github.com/RodrigoJuniorLiyah/Happy---Rocketseat/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RodrigoJuniorLiyah/Happy---Rocketseat">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RodrigoJuniorLiyah/Star-Wars">
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 ## 💻 Sobre o projeto
 
-🖖🐱‍👤 Star Wars - é um projeto que organiza pra você a sequência corretas dos filmes e episódios e nunca mais se perder e saber por onde começar a assitir essa série de filmes maravilhosas!
+🖖🐱‍👤 Star Wars - é um projeto que organiza pra você as sequências corretas dos filmes e episódios. Você nunca mais vai se perder e irá saber por onde começar a assitir essa série de filmes maravilhosa!
 
 ---
 
@@ -95,7 +95,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 ---
 
-## 🐱‍👤Autor
+## 🐱‍👤 Autor
 
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" width="100px;"/>
  <sub><b>Rodrigo junior 🚀</b></sub>

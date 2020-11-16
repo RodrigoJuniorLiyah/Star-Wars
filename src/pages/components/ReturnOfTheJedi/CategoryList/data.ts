@@ -1,18 +1,18 @@
 /* A New Hope */
 
-import C3PO from "../../../../assets/images/imagesCharacter/C-3PO.jpg";
-import DarthVader from "../../../../assets/images/imagesCharacter/DarthVader.jpg";
-import Chewbacca from "../../../../assets/images/imagesCharacter/Chewbacca.jpg";
-import HanSolo from "../../../../assets/images/imagesCharacter/HanSolo.jpg";
-import JabbaDesilijicTiure from "../../../../assets/images/imagesCharacter/JabbaDesilijicTiure.jpg";
-import LeiaOrgana from "../../../../assets/images/imagesCharacter/LeiaOrgana.jpg";
-import LukeANH from "../../../../assets/images/imagesCharacter/LukeANH.jpg";
-import ObiWanKenobi from "../../../../assets/images/imagesCharacter/Obi-WanKenobi.jpg";
-import R2D2 from "../../../../assets/images/imagesCharacter/R2D2.jpg";
-import BobaFett from "../../../../assets/images/imagesCharacterReturnOfTheJedi/BobaFett.png";
-import Palpatine from "../../../../assets/images/imagesCharacterReturnOfTheJedi/Palpatine.jpg";
-import WedgeAntilles from "../../../../assets/images/imagesCharacterReturnOfTheJedi/WedgeAntilles.jpg";
-import Yoda from "../../../../assets/images/imagesCharacterReturnOfTheJedi/Yoda.jpg";
+import C3PO from "../../../../assets/images/characters/imagesCharacter/C-3PO.jpg";
+import DarthVader from "../../../../assets/images/characters/imagesCharacter/DarthVader.jpg";
+import Chewbacca from "../../../../assets/images/characters/imagesCharacter/Chewbacca.jpg";
+import HanSolo from "../../../../assets/images/characters/imagesCharacter/HanSolo.jpg";
+import JabbaDesilijicTiure from "../../../../assets/images/characters/imagesCharacter/JabbaDesilijicTiure.jpg";
+import LeiaOrgana from "../../../../assets/images/characters/imagesCharacter/LeiaOrgana.jpg";
+import LukeANH from "../../../../assets/images/characters/imagesCharacter/LukeANH.jpg";
+import ObiWanKenobi from "../../../../assets/images/characters/imagesCharacter/Obi-WanKenobi.jpg";
+import R2D2 from "../../../../assets/images/characters/imagesCharacter/R2D2.jpg";
+import BobaFett from "../../../../assets/images/characters/imagesCharacterReturnOfTheJedi/BobaFett.png";
+import Palpatine from "../../../../assets/images/characters/imagesCharacterReturnOfTheJedi/Palpatine.jpg";
+import WedgeAntilles from "../../../../assets/images/characters/imagesCharacterReturnOfTheJedi/WedgeAntilles.jpg";
+import Yoda from "../../../../assets/images/characters/imagesCharacterReturnOfTheJedi/Yoda.jpg";
 
 /* Planets */
 import Tatooine_TPM from "../../../../assets/images/planets/planetsANewHope/Tatooine_TPM.png";

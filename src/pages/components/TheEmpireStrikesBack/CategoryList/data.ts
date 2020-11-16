@@ -1,16 +1,16 @@
 /* A New Hope */
-import C3PO from "../../../../assets/images/imagesCharacter/C-3PO.jpg";
-import DarthVader from "../../../../assets/images/imagesCharacter/DarthVader.jpg";
-import Chewbacca from "../../../../assets/images/imagesCharacter/Chewbacca.jpg";
-import HanSolo from "../../../../assets/images/imagesCharacter/HanSolo.jpg";
-import LeiaOrgana from "../../../../assets/images/imagesCharacter/LeiaOrgana.jpg";
-import LukeANH from "../../../../assets/images/imagesCharacter/LukeANH.jpg";
-import ObiWanKenobi from "../../../../assets/images/imagesCharacter/Obi-WanKenobi.jpg";
-import R2D2 from "../../../../assets/images/imagesCharacter/R2D2.jpg";
-import Bossk from "../../../../assets/images/imagesCharacterTheEmpireStrikesBack/Bossk.png";
-import LandoCalrissian from "../../../../assets/images/imagesCharacterTheEmpireStrikesBack/LandoCalrissian.jpg";
-import Lobot from "../../../../assets/images/imagesCharacterTheEmpireStrikesBack/Lobot.jpg";
-import BobaFett from "../../../../assets/images/imagesCharacterReturnOfTheJedi/BobaFett.png";
+import C3PO from "../../../../assets/images/characters/imagesCharacter/C-3PO.jpg";
+import DarthVader from "../../../../assets/images/characters/imagesCharacter/DarthVader.jpg";
+import Chewbacca from "../../../../assets/images/characters/imagesCharacter/Chewbacca.jpg";
+import HanSolo from "../../../../assets/images/characters/imagesCharacter/HanSolo.jpg";
+import LeiaOrgana from "../../../../assets/images/characters/imagesCharacter/LeiaOrgana.jpg";
+import LukeANH from "../../../../assets/images/characters/imagesCharacter/LukeANH.jpg";
+import ObiWanKenobi from "../../../../assets/images/characters/imagesCharacter/Obi-WanKenobi.jpg";
+import R2D2 from "../../../../assets/images/characters/imagesCharacter/R2D2.jpg";
+import Bossk from "../../../../assets/images/characters/imagesCharacterTheEmpireStrikesBack/Bossk.png";
+import LandoCalrissian from "../../../../assets/images/characters/imagesCharacterTheEmpireStrikesBack/LandoCalrissian.jpg";
+import Lobot from "../../../../assets/images/characters/imagesCharacterTheEmpireStrikesBack/Lobot.jpg";
+import BobaFett from "../../../../assets/images/characters/imagesCharacterReturnOfTheJedi/BobaFett.png";
 
 /* Planets */
 import OrdMantell from "../../../../assets/images/planets/planetsTheEmpireStrikesBack/OrdMantell.png";
